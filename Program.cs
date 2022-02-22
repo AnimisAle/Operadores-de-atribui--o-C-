@@ -31,7 +31,7 @@ namespace Operadores
 			System.Console.WriteLine();
 
 			// Operador aritmético ++ ou -- 
-			int c = 10; 
+			int c = 10;
 			c++;
 			System.Console.WriteLine(c);
 
@@ -39,12 +39,12 @@ namespace Operadores
 			d--;
 			System.Console.WriteLine(d);
 
-System.Console.WriteLine("--------------------------");
+			System.Console.WriteLine("--------------------------");
 
-int teste1 = 10;
-int teste2 = ++teste1; 
-System.Console.WriteLine(teste1);
-System.Console.WriteLine(teste2);
+			int teste1 = 10;
+			int teste2 = ++teste1;
+			System.Console.WriteLine(teste1);
+			System.Console.WriteLine(teste2);
 
 
 
