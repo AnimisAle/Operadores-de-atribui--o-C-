@@ -1,0 +1,15 @@
+C:\Users\55629\Desktop\Operadores de atribuição C#\bin\Debug\net6.0\Operadores de atribuição C#.exe
+C:\Users\55629\Desktop\Operadores de atribuição C#\bin\Debug\net6.0\Operadores de atribuição C#.deps.json
+C:\Users\55629\Desktop\Operadores de atribuição C#\bin\Debug\net6.0\Operadores de atribuição C#.runtimeconfig.json
+C:\Users\55629\Desktop\Operadores de atribuição C#\bin\Debug\net6.0\Operadores de atribuição C#.dll
+C:\Users\55629\Desktop\Operadores de atribuição C#\bin\Debug\net6.0\ref\Operadores de atribuição C#.dll
+C:\Users\55629\Desktop\Operadores de atribuição C#\bin\Debug\net6.0\Operadores de atribuição C#.pdb
+C:\Users\55629\Desktop\Operadores de atribuição C#\obj\Debug\net6.0\Operadores de atribuição C#.csproj.AssemblyReference.cache
+C:\Users\55629\Desktop\Operadores de atribuição C#\obj\Debug\net6.0\Operadores de atribuição C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55629\Desktop\Operadores de atribuição C#\obj\Debug\net6.0\Operadores de atribuição C#.AssemblyInfoInputs.cache
+C:\Users\55629\Desktop\Operadores de atribuição C#\obj\Debug\net6.0\Operadores de atribuição C#.AssemblyInfo.cs
+C:\Users\55629\Desktop\Operadores de atribuição C#\obj\Debug\net6.0\Operadores de atribuição C#.csproj.CoreCompileInputs.cache
+C:\Users\55629\Desktop\Operadores de atribuição C#\obj\Debug\net6.0\Operadores de atribuição C#.dll
+C:\Users\55629\Desktop\Operadores de atribuição C#\obj\Debug\net6.0\ref\Operadores de atribuição C#.dll
+C:\Users\55629\Desktop\Operadores de atribuição C#\obj\Debug\net6.0\Operadores de atribuição C#.pdb
+C:\Users\55629\Desktop\Operadores de atribuição C#\obj\Debug\net6.0\Operadores de atribuição C#.genruntimeconfig.cache

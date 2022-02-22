@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Operadores de atribuição C#/1.0.0": {
+        "runtime": {
+          "Operadores de atribuição C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operadores de atribuição C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
